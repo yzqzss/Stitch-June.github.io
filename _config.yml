@@ -1,12 +1,12 @@
-title: Hexo
+title: Stitch's Blog
 subtitle: ''
 description: ''
 keywords: null
-author: John Doe
+author: stitch
 language: zh-CN
 timezone: ''
 url: http://stitch.cn
-permalink: ':year/:month/:day/:title/'
+permalink: ':year/:month/:day/:title.html'
 permalink_defaults: null
 pretty_urls:
   trailing_index: true
